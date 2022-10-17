@@ -4,3 +4,7 @@ p {
     text-align: center;
     text-decoration: overline;
 }
+
+a:visited {
+    color: magenta;
+}
